@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio Projects\me.joshrobertson\me.joshrobertson\bin\me.joshrobertson.dll.config
+D:\Documents\Visual Studio Projects\me.joshrobertson\me.joshrobertson\bin\me.joshrobertson.dll
+D:\Documents\Visual Studio Projects\me.joshrobertson\me.joshrobertson\bin\me.joshrobertson.pdb
+D:\Documents\Visual Studio Projects\me.joshrobertson\me.joshrobertson\obj\Debug\me.joshrobertson.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio Projects\me.joshrobertson\me.joshrobertson\obj\Debug\me.joshrobertson.dll
+D:\Documents\Visual Studio Projects\me.joshrobertson\me.joshrobertson\obj\Debug\me.joshrobertson.pdb
